@@ -1,0 +1,16 @@
+[
+    { "name": "ServiceNow", "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e0/ServiceNow_logo.svg" },
+    { "name": "Java", "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" },
+    { "name": "JavaScript", "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png" },
+    { "name": "Spring Boot", "icon": "https://img.icons8.com/color/48/000000/spring-logo.png" },
+    { "name": "SQL", "icon": "https://img.icons8.com/color/48/000000/sql.png" },
+    { "name": "MySQL", "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png" },
+    { "name": "REST APIs", "icon": "https://img.icons8.com/color/48/000000/api-settings.png" },
+    { "name": "AWS", "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png" },
+    { "name": "Firebase", "icon": "https://img.icons8.com/color/48/000000/firebase.png" },
+    { "name": "Git", "icon": "https://img.icons8.com/color/48/000000/git.png" },
+    { "name": "GitHub", "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png" },
+    { "name": "Postman", "icon": "https://img.icons8.com/color/48/000000/postman-api.png" },
+    { "name": "IntelliJ IDEA", "icon": "https://img.icons8.com/color/48/000000/intellij-idea.png" },
+    { "name": "Eclipse", "icon": "https://img.icons8.com/color/48/000000/eclipse-ide.png" }
+]
